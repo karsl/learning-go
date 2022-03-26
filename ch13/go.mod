@@ -1,0 +1,5 @@
+module learning-go/ch13
+
+go 1.18
+
+require github.com/google/go-cmp v0.5.7 // indirect

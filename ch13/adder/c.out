@@ -1,0 +1,4 @@
+mode: set
+learning-go/ch13/adder/adder.go:3.24,5.12 1 1
+learning-go/ch13/adder/adder.go:5.12,7.3 1 0
+learning-go/ch13/adder/adder.go:7.8,9.3 1 1
